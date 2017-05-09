@@ -27,6 +27,7 @@ in database and stock classes, it's okay to edit it.
   <th>Field</th>
   <th>Type</th>
   <th>Null</th>
+  <th>Key</th>
   <th>Default</th>
   </tr>
   </thead>
@@ -34,13 +35,47 @@ in database and stock classes, it's okay to edit it.
   <tbody>
   <tr>
   <td>product_code</td>
+  <td>VARCHAR(3)</td>
+  <td>NO</td>
+  <td>Primary Key</td>
+  <td>NULL</td>
   </tr>
   <tr>
   <td>product_name</td>
+  <td>VARCHAR(90)</td>
+  <td>NO</td>
+  <td></td>
+  <td>NULL</td>
   </tr>
   <tr>
   <td>uom</td>
+  <td>VARCHAR(15)</td>
+  <td>NO</td>
+  <td></td>
+  <td>NULL</td>
   </tr>
+  <tr>
+  <td>cogs</td>
+  <td>BIGINT(20)</td>
+  <td>NO</td>
+  <td></td>
+  <td>NULL</td>
+  </tr>
+  <tr>
+  <td>selling_price</td>
+  <td>BIGINT(20)</td>
+  <td>NO</td>
+  <td></td>
+  <td>NULL</td>
+  </tr>
+  <tr>
+  <td>stock</td>
+  <td>INT(11)</td>
+  <td>NO</td>
+  <td></td>
+  <td>NULL</td>
+  </tr>
+  
   </tbody>
   
   </table>
