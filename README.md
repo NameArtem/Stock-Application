@@ -8,3 +8,40 @@ This repository is a reference to create a simple stock application with java an
 <p> 2. <a href="http://www.java2s.com/Code/Jar/m/Downloadmysqlconnectorjava5123binjar.htm" target="_blank"> mysql-connector-java </a> is used in order to connect java to mysql </p>
 <p> 3. <a href="http://www.jtattoo.net/Download.html" target="_blank">JTattoo Library (optional)</a> to change the app GUI's look and feel  </p>
 <p> 4. <a href="https://poi.apache.org/" target="_blank">Apache POI</a> to export the output into excel file </p>
+
+
+<h3> Database Setting:</h3>
+
+<p>This application use database and table called stock and stock data, respectively.
+You could also modify the database and table name, just if you want to.
+Don't edit the table structure, otherwise the program will not work, but if you don't mind to make adjustments
+in database and stock classes, it's okay to edit it. 
+</p>
+
+<strong> Table structure: </strong>
+
+<table>
+  
+  <thead>
+  <tr>
+  <th>Field</th>
+  <th>Type</th>
+  <th>Null</th>
+  <th>Default</th>
+  </tr>
+  </thead>
+  
+  <tbody>
+  <tr>
+  <td>product_code</td>
+  </tr>
+  <tr>
+  <td>product_name</td>
+  </tr>
+  <tr>
+  <td>uom</td>
+  </tr>
+  </tbody>
+  
+  </table>
+  
