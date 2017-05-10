@@ -13,9 +13,8 @@ This repository is a reference to create a simple stock application with java an
 <h3> Database Setting:</h3>
 
 <p>This application used database and table called stock and stock data, respectively.
-You could also modify the database and table name, just if you want to.
-Don't edit the table structure, otherwise the program will not work, but if you don't mind to make adjustments
-in database and stock classes, it's okay to edit it. 
+You could also modify the database and table name and make a little bit adjusment in database and stock classes, just if you want to.
+Don't edit the table structure, otherwise the program will not work. 
 </p>
 
 <strong> Table structure: </strong>
