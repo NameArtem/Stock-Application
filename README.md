@@ -1,6 +1,6 @@
 # Stock-Application
 
-This repository is a reference to create a simple stock application with java and mysql as database. The application simulates how to store and fetch stock data to and from database.
+This repository is a reference to create a simple stock application with java and mysql as database. The application simulates how to store and retrieve stock data to and from database.
 
 <h3>Requirements:</h3>
 <p> 1. <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank">Java SE Development Kit 8 (JDK).</a> </p> 
