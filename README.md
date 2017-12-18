@@ -2,7 +2,7 @@
 
 This repository is a reference to create a simple stock application with java and mysql as database. The application simulates how to store and retrieve stock data to and from database.
 
-<h3>Requirements:</h3>
+<h3>Prerequisites:</h3>
 <p> 1. <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank">Java SE Development Kit 8 (JDK).</a> </p> 
 <p> 2. <a href="https://netbeans.org/downloads/" target="_blank">Netbeans IDE (optional)</a>, you could also swicth to your favorite IDE</p> 
 <p> 2. <a href="http://www.java2s.com/Code/Jar/m/Downloadmysqlconnectorjava5123binjar.htm" target="_blank"> mysql-connector-java </a> is used in order to connect java to mysql </p>
